@@ -1,0 +1,13 @@
+D:\GeekBrains\Task1-1\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.exe
+D:\GeekBrains\Task1-1\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.deps.json
+D:\GeekBrains\Task1-1\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.runtimeconfig.json
+D:\GeekBrains\Task1-1\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.runtimeconfig.dev.json
+D:\GeekBrains\Task1-1\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.dll
+D:\GeekBrains\Task1-1\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.pdb
+D:\GeekBrains\Task1-1\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Task1-1\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.AssemblyInfoInputs.cache
+D:\GeekBrains\Task1-1\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.AssemblyInfo.cs
+D:\GeekBrains\Task1-1\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Task1-1\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.dll
+D:\GeekBrains\Task1-1\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.pdb
+D:\GeekBrains\Task1-1\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.genruntimeconfig.cache
